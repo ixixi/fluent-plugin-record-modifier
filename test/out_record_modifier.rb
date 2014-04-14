@@ -1,6 +1,4 @@
-require 'fluent/test'
-require 'fluent/plugin/out_record_modifier'
-
+require 'helper'
 
 class RecordModifierOutputTest < Test::Unit::TestCase
   def setup
